@@ -1,6 +1,7 @@
 KURSU BITIRDIKDEN SONRA
 
     Задачи с собеседований на понимание основ:
+
         Какое будет выведено значение: let x = 5; alert( x++ ); ?
         Чему равно такое выражение: [ ] + false - null + true ?
         Что выведет этот код: let y = 1; let x = y = 2; alert(x); ?
@@ -12,8 +13,6 @@ KURSU BITIRDIKDEN SONRA
         Что выведет этот код: alert( +&quot;Infinity&quot; ); ?
         Верно ли сравнение: &quot;Ёжик&quot; &gt; &quot;яблоко&quot;?
         Чему равно 0 || &quot;&quot; || 2 || undefined || true || falsе ?
-
-
 
     Practice 1:
 
