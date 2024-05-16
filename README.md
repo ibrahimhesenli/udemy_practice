@@ -23,7 +23,7 @@ KURSU BITIRDIKDEN SONRA
         //birinci 2&&3 cavabda 3 olacaq sonra null || 3 cavabda 3 axirda cavab 3
         a = [1, 2, 3]; b = [1, 2, 3]; Правда ли что a == b ?
         //false
-        Что выведет этот код: alert( +&quot;Infinity&quot; ); ?
+        Что выведет этот код: alert( +"Infinity" ); ?
         //Infinity
         Верно ли сравнение: "Ёжик" > "яблоко"?
         //False
