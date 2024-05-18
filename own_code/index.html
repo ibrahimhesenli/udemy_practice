@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Number Printer</title>
+</head>
+<body>
+
+<label for="numberInput">Enter a number:</label>
+<input type="text" id="numberInput" name="numberInput">
+<button onclick="printNumber()">Print</button>
+
+<span id="output"></span>
+
+<script>
+function printNumber() {
+    var number = document.getElementById("numberInput").value;
+    document.getElementById("output").textContent = "Number: " + number;
+}
+</script>
+
+</body>
+</html>
