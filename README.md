@@ -1,5 +1,11 @@
 KURSU BITIRDIKDEN SONRA
 
+EDILECEK ISLER:
+1 web developer kursuna tezeden 3 cu moduldan baxmaq
+2 xususi qeydler aparmaq 
+3 testleri tezeden kecib onlari qeyd etmek
+4 eynisini javascript de etmek
+
     Задачи с собеседований на понимание основ:
 
         Какое будет выведено значение: let x = 5; alert( x++ ); ?
