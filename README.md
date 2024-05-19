@@ -50,13 +50,3 @@ EDILECEK ISLER:
         #29
         #37
 
-    Получение элементов со страницы:
-       
-        1) const box = document.getElementById("box");
-        2) const buttons = document.getElementsByTagName("button");
-        3) const circles = document.getElementsByClassName("circle");
-        4) const hearts = document.querySelectorAll(".heart");
-           hearts.forEach(item => {
-               console.log(hearts);
-           })
-        5) const oneHeart = document.querySelector(".heart");
